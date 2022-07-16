@@ -1,0 +1,81 @@
+.header{
+    height: 64px;
+    background-color: white;
+    display: flex;
+}
+.logo{
+    width: 130px;
+    height: 100%;
+    margin-left: 18px;
+    display: flex;
+    align-items: center;
+}
+.binance-logo{
+    width: 100px;
+    color: yellow;
+    display: flex;
+    
+}
+.nft-logo{
+    color: black;
+    margin-left: 5px;
+}
+.menu{
+    width: 942px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+.navbar{
+    width: 360px;
+}
+.navbar ul{
+    display: flex;
+    font-size: 15px;
+}
+li{
+    list-style: none;
+    margin-left: 30px;
+}
+.link{
+  color: black;
+  text-decoration: none;
+}
+.search{
+    width: 434px;
+    margin-left: 50px;
+}
+.search-group{
+    border:1px solid yellow;
+}
+
+.user{
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+}
+ 
+.login {
+
+}
+.register{
+    margin-left: 20px;
+    background-color: #fcd535;
+    padding: 7px 10px;
+    border-radius: 7px;
+}
+.langure{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    
+}
+.vietnamese{
+    padding: 5px;
+}
+.usd{
+    padding: 5px;
+    
+    border-left: 1px solid silver;
+}
